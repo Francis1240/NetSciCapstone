@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe38ac53-9858-498b-aa2b-62f6dbfb21e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/venv/TwoGraphs.gephi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sen.gexf" beforeDir="false" afterPath="$PROJECT_DIR$/sen.gexf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seq.gexf" beforeDir="false" afterPath="$PROJECT_DIR$/seq.gexf" afterDir="false" />
@@ -20,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
